@@ -1,0 +1,12 @@
+Reflection 
+
+
+Good Points -:
+
+Unlike last assingnment in this assignment i avoided hardcoding. I spent time planning the solution first then implemented it
+
+
+Bad Points
+
+I but i realised it in the end that i could have done isValid in translation method specifically in a more elegant way, which would probably be half the size 
+of solution of now.
